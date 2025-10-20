@@ -114,8 +114,8 @@ h1 {
     position: sticky;
     top: 0;
 }
-
-#Other {
+h2 {
     position: sticky;
-    z-index: -1;
+    top: 65px;
+    z-index: 2;
 }
